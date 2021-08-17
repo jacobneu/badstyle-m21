@@ -1,6 +1,5 @@
 (* 
     Rev Bad Style - 15-150 M21 
-    Thea Brick 
  *)
 
 (* idk why they add these they are so unnecessary *)
